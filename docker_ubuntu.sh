@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# getting the necessery permissions
+
+sudo su -
+
 
 #Greeting
 username=$(whoami)
