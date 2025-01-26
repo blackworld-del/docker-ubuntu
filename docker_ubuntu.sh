@@ -31,7 +31,7 @@ sudo apt-get update
 
 #install docker with latest version
 
-sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
 
 
 #starting docker deamon
